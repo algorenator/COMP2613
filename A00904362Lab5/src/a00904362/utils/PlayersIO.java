@@ -23,6 +23,7 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
+import a00904362.ApplicationException;
 import a00904362.data.Player;
 
 /**
@@ -94,8 +95,6 @@ public class PlayersIO {
 					person.setDob(date);
 					players.add(person);
 
-					hp.put(Integer.parseInt(temp2[0]), person);
-
 				} catch (DateTimeParseException e) {
 					throw new ApplicationException(rec_num + temp2[5] + " - wrong date format. must be yyyyMMdd");
 				}
@@ -106,9 +105,6 @@ public class PlayersIO {
 				inputStream.close();
 			}
 		}
-
-		// test
-		System.out.println("get from hashmap - " + hp.get(3).getLastname());
 
 		return players;
 	}

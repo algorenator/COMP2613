@@ -5,7 +5,7 @@
  * Time: 11:23:04 AM
  */
 
-package a00904362.utils;
+package a00904362;
 
 /**
  * @author Alexey Gorbenko, A00904362

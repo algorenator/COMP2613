@@ -9,14 +9,13 @@ package a00904362;
 
 import java.time.Duration;
 import java.time.Instant;
+import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import a00904362.data.Player;
-import a00904362.utils.ApplicationException;
 import a00904362.utils.CompareByBirthdate;
 import a00904362.utils.PlayersIO;
 
@@ -52,16 +51,9 @@ public class Lab5 {
 			players = PlayersIO.populatePlayers();
 			LOG.info("End PlayersIO.populatePlayers");
 
-			// Collections.sort(players, new CompareByBirthdate());
+			Collections.sort(players, new CompareByBirthdate());
 
-			// !!!! for assumption
-			// List<Player> beerDrinkers = players.stream().filter(p -> p.getId() > 3).collect(Collectors.toList());
-			List<Player> beerDrinkers = players.stream().sorted(new CompareByBirthdate()).filter(p -> p.getId() > 3)
-					.collect(Collectors.toList());
-
-			PlayersIO.displayPlayers(beerDrinkers);
-
-			// PlayersIO.displayPlayers(players);
+			PlayersIO.displayPlayers(players);
 			LOG.info("End PlayersIO.displayPlayers");
 
 		} catch (ApplicationException e) {
