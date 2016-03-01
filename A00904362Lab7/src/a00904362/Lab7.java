@@ -45,7 +45,6 @@ public class Lab7 {
 	private static Properties _properties;
 	private static Connection _connection;
 	private static Database database;
-	// private PlayerDao playerDao;
 
 	public static final String DB_PROPERTIES_FILENAME = "db.properties";
 
@@ -53,7 +52,6 @@ public class Lab7 {
 	public static final String DB_URL_KEY = "db.url";
 	public static final String DB_USER_KEY = "db.user";
 	public static final String DB_PASSWORD_KEY = "db.password";
-	// private static final String PlayerDao.TABLE_NAME = "A00904362_Player";
 
 	/**
 	 * @param args
@@ -75,7 +73,7 @@ public class Lab7 {
 			players = PlayersIO.populatePlayers();
 			LOG.info("End PlayersIO.populatePlayers");
 
-			PopulateDB();
+			PopulateDB(); // Lab7
 
 			Collections.sort(players, new CompareByBirthdate());
 
