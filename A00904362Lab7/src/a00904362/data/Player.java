@@ -9,6 +9,7 @@ package a00904362.data;
 
 import java.time.LocalDate;
 import java.time.ZoneId;
+import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 /**
@@ -66,6 +67,12 @@ public class Player {
 
 	public void setDob(LocalDate date) {
 		this.dob = GregorianCalendar.from(date.atStartOfDay(ZoneId.systemDefault()));
+	}
+
+	public void setDob(java.sql.Date date) {
+		Calendar cal = new GregorianCalendar();
+		cal.setTime(date);
+		this.dob = (GregorianCalendar) cal;
 	}
 
 	/**
