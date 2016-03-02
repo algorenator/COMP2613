@@ -155,6 +155,10 @@ public class Player {
 		this.gamertag = gamertag;
 	}
 
+	public String getFullName() {
+		return firstname + " " + lastname;
+	}
+
 	/*
 	 * (non-Javadoc)
 	 * @see java.lang.Object#toString()

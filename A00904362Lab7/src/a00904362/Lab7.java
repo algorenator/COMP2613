@@ -122,8 +122,8 @@ public class Lab7 {
 		LOG.info("Table " + playerDao.getTableName() + " contains " + playerDao.countAll() + " records");
 		LOG.info("records- " + playerDao.loadAll().toString());
 		for (String pl : playerDao.getGamerTags()) {
-			LOG.info("players by tag - "
-					+ String.format("%-20s%-3s%-20s", pl, "-", playerDao.getPlayerByTag(pl).getLastname()));
+			LOG.info("find playerby tag - "
+					+ String.format("%-15s%-3s%-20s", pl, "-", playerDao.getPlayerByTag(pl).getFullName()));
 		}
 
 	}

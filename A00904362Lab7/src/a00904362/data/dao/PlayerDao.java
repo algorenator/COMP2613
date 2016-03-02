@@ -15,9 +15,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
-
 import a00904362.NotFoundException;
 import a00904362.data.Player;
 import a00904362.data.db.Database;
@@ -28,7 +25,6 @@ import a00904362.data.db.Database;
  */
 
 public class PlayerDao extends Dao {
-	private static final Logger LOG = LogManager.getLogger(PlayerDao.class);
 
 	private final static String table_name = "A00904362_Player";
 
@@ -284,8 +280,6 @@ public class PlayerDao extends Dao {
 
 		sql.append("ORDER BY id ASC ");
 
-		// Prevent accidential full table results.
-		// Use loadAll if all rows must be returned.
 		if (first)
 			searchResults = new ArrayList<Player>();
 		else
