@@ -38,13 +38,12 @@ public class Lab7 {
 	private static int exit_code = 0;
 	private static List<Player> players;
 	private static final Logger LOG = Logger.getLogger(Lab7.class);
-	private static String FILE_LOG_SET = "log.properties";
 
 	private static Properties _properties;
 	private static Database database;
 
 	private static final String DB_PROPERTIES_FILENAME = "db.properties";
-
+	private static final String FILE_LOG_SET = "log.properties";
 	private static final String LAB_NO = "Lab7";
 
 	/**
@@ -67,7 +66,7 @@ public class Lab7 {
 			players = PlayersIO.populatePlayers();
 			LOG.info("End PlayersIO.populatePlayers");
 
-			PopulateDB(); // Lab7
+			PopulateDB(players); // Lab7
 
 			Collections.sort(players, new CompareByBirthdate());
 
@@ -95,8 +94,8 @@ public class Lab7 {
 		System.exit(exit_code);
 	}
 
-	private static void PopulateDB() throws ClassNotFoundException, SQLException, ApplicationException,
-			FileNotFoundException, IOException, NotFoundException {
+	private static void PopulateDB(List<Player> db_players) throws ClassNotFoundException, SQLException,
+			ApplicationException, FileNotFoundException, IOException, NotFoundException {
 		File file = new File(DB_PROPERTIES_FILENAME);
 		if (!file.exists()) {
 			throw new ApplicationException("File DB properties " + DB_PROPERTIES_FILENAME + " doesnt exist");
@@ -104,6 +103,7 @@ public class Lab7 {
 
 		_properties = new Properties();
 		_properties.load(new FileInputStream(file));
+
 		database = new Database(_properties);
 		database.getConnection();
 		PlayerDao playerDao = new PlayerDao(database);
@@ -112,19 +112,18 @@ public class Lab7 {
 			LOG.info("Table " + playerDao.getTableName() + " doesnt exists");
 			playerDao.create();
 			LOG.info("Table " + playerDao.getTableName() + " created");
-			playerDao.fillPlayers(players);
+			playerDao.fillPlayers(db_players);
 		} else {
 			LOG.info("Table " + playerDao.getTableName() + " exists");
 			// playerDao.drop(); // for testing
-			// LOG.info("Table " + PlayerDao.TABLE_NAME + " dropped"); // for testing
-			// playerDao.create(); // for testing
+			// LOG.info("Table " + playerDao.getTableName() + " dropped"); // for testing
 		}
 
 		LOG.info("Table " + playerDao.getTableName() + " contains " + playerDao.countAll() + " records");
 		LOG.info("records- " + playerDao.loadAll().toString());
 		for (String pl : playerDao.getGamerTags()) {
 			LOG.info("players by tag - "
-					+ String.format("%-20s%-3s%-20s", pl, "-", playerDao.getPlayerByTag(pl).getFirstname()));
+					+ String.format("%-20s%-3s%-20s", pl, "-", playerDao.getPlayerByTag(pl).getLastname()));
 		}
 
 	}
