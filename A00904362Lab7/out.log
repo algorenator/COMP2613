@@ -609,3 +609,25 @@
 2016-03-02 09:14:45,681 INFO  a00904362.Lab7  - 1643 ms
 2016-03-02 09:14:45,682 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
 2016-03-02 09:14:45,683 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-02 17:00:41,498 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-02 17:00:41,515 INFO  a00904362.Lab7  - 2016-03-03T01:00:41.515Z
+2016-03-02 17:00:41,623 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-02 17:00:41,684 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-02 17:00:41,717 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-02 17:00:41,862 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-02 17:00:42,631 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-02 17:00:42,653 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-02 17:00:42,942 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-02 17:00:42,965 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-02 17:00:42,989 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-02 17:00:43,024 INFO  a00904362.Lab7  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-02 17:00:43,043 INFO  a00904362.Lab7  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-02 17:00:43,062 INFO  a00904362.Lab7  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-02 17:00:43,081 INFO  a00904362.Lab7  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-02 17:00:43,099 INFO  a00904362.Lab7  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-02 17:00:43,130 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-02 17:00:43,136 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-02 17:00:43,136 INFO  a00904362.Lab7  - 2016-03-03T01:00:43.136Z
+2016-03-02 17:00:43,137 INFO  a00904362.Lab7  - 1621 ms
+2016-03-02 17:00:43,138 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-02 17:00:43,139 INFO  a00904362.Lab7  - End Lab7. exit_code 0
