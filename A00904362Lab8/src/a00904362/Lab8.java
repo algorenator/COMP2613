@@ -49,10 +49,10 @@ public class Lab8 {
 		}
 
 		public void report() {
+			newline = !newline;
 			if (newline) {
 				System.out.println();
 			}
-			newline = !newline;
 			System.out.print(runnername + " " + distance + " ");
 			if (distance >= LIMIT) {
 				finish = true;
