@@ -14,7 +14,7 @@ package a00904362;
 
 public class Lab8 {
 
-	private static int LIMIT = 20;
+	private static int LIMIT = 100;
 	private static boolean newline = false;
 	private static boolean finish = false;
 
@@ -78,7 +78,7 @@ public class Lab8 {
 		@Override
 		public void run() {
 
-			while (!finish) {
+			while (distance < LIMIT || !finish) {
 				try {
 					step();
 				} catch (InterruptedException e) {
@@ -86,7 +86,7 @@ public class Lab8 {
 					e.printStackTrace();
 				}
 			}
-
+			// System.out.println("finish-" + runnername);
 		}
 
 	}
