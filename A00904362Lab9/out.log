@@ -1,0 +1,1244 @@
+2016-03-01 16:05:06,955 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:05:06,962 INFO  a00904362.Lab7  - 2016-03-02T00:05:06.962Z
+2016-03-01 16:05:07,087 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:05:07,115 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:05:07,126 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:05:08,632 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:05:08,669 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:05:08,709 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:05:08,726 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:05:08,734 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:05:08,735 INFO  a00904362.Lab7  - 2016-03-02T00:05:08.735Z
+2016-03-01 16:05:08,736 INFO  a00904362.Lab7  - 1773 ms
+2016-03-01 16:05:08,737 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:05:08,738 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 16:07:36,027 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:07:36,031 INFO  a00904362.Lab7  - 2016-03-02T00:07:36.031Z
+2016-03-01 16:07:36,109 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:07:36,138 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:07:36,148 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:07:37,090 INFO  a00904362.data.dao.PlayerDao  - Starting java.lang.Object
+2016-03-01 16:07:37,363 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:07:37,385 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:07:37,407 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:07:37,424 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:07:37,431 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:07:37,432 INFO  a00904362.Lab7  - 2016-03-02T00:07:37.432Z
+2016-03-01 16:07:37,433 INFO  a00904362.Lab7  - 1401 ms
+2016-03-01 16:07:37,434 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:07:37,435 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 16:08:48,169 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:08:48,172 INFO  a00904362.Lab7  - 2016-03-02T00:08:48.172Z
+2016-03-01 16:08:48,243 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:08:48,273 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:08:48,286 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:08:49,349 INFO  a00904362.data.dao.PlayerDao  - Starting class java.lang.Class
+2016-03-01 16:08:49,684 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:08:49,713 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:08:49,741 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:08:49,759 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:08:49,766 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:08:49,767 INFO  a00904362.Lab7  - 2016-03-02T00:08:49.767Z
+2016-03-01 16:08:49,768 INFO  a00904362.Lab7  - 1595 ms
+2016-03-01 16:08:49,769 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:08:49,770 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 16:10:58,804 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:10:58,808 INFO  a00904362.Lab7  - 2016-03-02T00:10:58.808Z
+2016-03-01 16:10:58,885 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:10:58,917 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:10:58,927 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:10:59,973 ERROR a00904362.Lab7  - java.lang.NullPointerException
+	at a00904362.data.dao.Dao.<init>(Dao.java:18)
+	at a00904362.data.dao.PlayerDao.<init>(PlayerDao.java:36)
+	at a00904362.Lab7.PopulateDB(Lab7.java:109)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 16:10:59,974 INFO  a00904362.Lab7  - 2016-03-02T00:10:59.974Z
+2016-03-01 16:10:59,975 INFO  a00904362.Lab7  - 1166 ms
+2016-03-01 16:10:59,976 INFO  a00904362.Lab7  - a00904362.data.db.Database@402a079c stopped
+2016-03-01 16:10:59,977 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 16:11:15,759 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:11:15,765 INFO  a00904362.Lab7  - 2016-03-02T00:11:15.765Z
+2016-03-01 16:11:15,890 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:11:15,915 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:11:15,924 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:11:17,011 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 16:11:17,359 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:11:17,417 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:11:17,477 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:11:17,492 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:11:17,499 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:11:17,500 INFO  a00904362.Lab7  - 2016-03-02T00:11:17.500Z
+2016-03-01 16:11:17,501 INFO  a00904362.Lab7  - 1735 ms
+2016-03-01 16:11:17,502 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:11:17,503 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 16:12:38,469 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:12:38,472 INFO  a00904362.Lab7  - 2016-03-02T00:12:38.472Z
+2016-03-01 16:12:38,545 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:12:38,576 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:12:38,588 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:12:39,822 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 16:12:40,255 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:12:40,366 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:12:40,465 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:12:40,486 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:12:40,493 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:12:40,494 INFO  a00904362.Lab7  - 2016-03-02T00:12:40.494Z
+2016-03-01 16:12:40,496 INFO  a00904362.Lab7  - 2022 ms
+2016-03-01 16:12:40,497 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:12:40,498 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 16:52:00,475 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:52:00,479 INFO  a00904362.Lab7  - 2016-03-02T00:52:00.479Z
+2016-03-01 16:52:00,548 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:52:00,576 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:52:00,587 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:52:01,522 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 16:52:01,843 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:52:01,875 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:52:01,898 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:52:01,925 ERROR a00904362.Lab7  - java.lang.NullPointerException
+	at a00904362.data.dao.PlayerDao.getGamerTags(PlayerDao.java:214)
+	at a00904362.Lab7.PopulateDB(Lab7.java:125)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 16:52:01,926 INFO  a00904362.Lab7  - 2016-03-02T00:52:01.926Z
+2016-03-01 16:52:01,927 INFO  a00904362.Lab7  - 1447 ms
+2016-03-01 16:52:01,928 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 16:52:01,929 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 16:53:36,975 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 16:53:36,980 INFO  a00904362.Lab7  - 2016-03-02T00:53:36.980Z
+2016-03-01 16:53:37,096 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 16:53:37,122 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 16:53:37,132 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 16:53:38,100 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 16:53:38,428 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 16:53:38,448 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 16:53:38,470 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 16:53:38,488 INFO  a00904362.Lab7  - [Ithroeann, Mazzzap, Crayonbreath, Quinesia, CastleRock]
+2016-03-01 16:53:38,507 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 16:53:38,514 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 16:53:38,515 INFO  a00904362.Lab7  - 2016-03-02T00:53:38.515Z
+2016-03-01 16:53:38,516 INFO  a00904362.Lab7  - 1535 ms
+2016-03-01 16:53:38,518 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 16:53:38,519 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:03:11,234 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:03:11,237 INFO  a00904362.Lab7  - 2016-03-02T01:03:11.237Z
+2016-03-01 17:03:11,311 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:03:11,341 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:03:11,353 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:03:12,244 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:03:12,528 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:03:12,558 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:03:12,580 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:03:12,648 ERROR a00904362.Lab7  - java.lang.ClassCastException: java.util.ArrayList cannot be cast to a00904362.data.Player
+	at a00904362.data.dao.PlayerDao.getPlayerByTag(PlayerDao.java:225)
+	at a00904362.Lab7.PopulateDB(Lab7.java:126)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 17:03:12,649 INFO  a00904362.Lab7  - 2016-03-02T01:03:12.649Z
+2016-03-01 17:03:12,650 INFO  a00904362.Lab7  - 1412 ms
+2016-03-01 17:03:12,651 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 17:03:12,652 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:10:13,452 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:10:13,457 INFO  a00904362.Lab7  - 2016-03-02T01:10:13.457Z
+2016-03-01 17:10:13,536 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:10:13,565 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:10:13,577 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:10:14,475 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:10:14,810 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:10:14,831 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:10:14,850 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:10:14,883 INFO  a00904362.Lab7  - Ithroeann - Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann]
+2016-03-01 17:10:14,902 INFO  a00904362.Lab7  - Mazzzap - Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap]
+2016-03-01 17:10:14,921 INFO  a00904362.Lab7  - Crayonbreath - Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath]
+2016-03-01 17:10:14,940 INFO  a00904362.Lab7  - Quinesia - Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia]
+2016-03-01 17:10:14,958 INFO  a00904362.Lab7  - CastleRock - Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]
+2016-03-01 17:10:14,975 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:10:14,981 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:10:14,982 INFO  a00904362.Lab7  - 2016-03-02T01:10:14.982Z
+2016-03-01 17:10:14,983 INFO  a00904362.Lab7  - 1525 ms
+2016-03-01 17:10:14,984 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:10:14,985 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:10:51,184 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:10:51,188 INFO  a00904362.Lab7  - 2016-03-02T01:10:51.188Z
+2016-03-01 17:10:51,263 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:10:51,290 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:10:51,300 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:10:52,187 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:10:52,423 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:10:52,441 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:10:52,460 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:10:52,503 ERROR a00904362.Lab7  - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at a00904362.data.dao.PlayerDao.getPlayerByTag(PlayerDao.java:226)
+	at a00904362.Lab7.PopulateDB(Lab7.java:126)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 17:10:52,504 INFO  a00904362.Lab7  - 2016-03-02T01:10:52.504Z
+2016-03-01 17:10:52,505 INFO  a00904362.Lab7  - 1316 ms
+2016-03-01 17:10:52,506 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 17:10:52,506 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:12:43,691 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:12:43,696 INFO  a00904362.Lab7  - 2016-03-02T01:12:43.696Z
+2016-03-01 17:12:43,805 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:12:43,833 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:12:43,845 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:12:44,978 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:12:45,327 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:12:45,347 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:12:45,368 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:12:45,409 ERROR a00904362.Lab7  - java.lang.ClassCastException: java.util.ArrayList cannot be cast to java.sql.ResultSet
+	at a00904362.data.dao.PlayerDao.getPlayerByTag(PlayerDao.java:227)
+	at a00904362.Lab7.PopulateDB(Lab7.java:126)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 17:12:45,410 INFO  a00904362.Lab7  - 2016-03-02T01:12:45.410Z
+2016-03-01 17:12:45,411 INFO  a00904362.Lab7  - 1714 ms
+2016-03-01 17:12:45,412 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 17:12:45,413 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:13:51,744 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:13:51,747 INFO  a00904362.Lab7  - 2016-03-02T01:13:51.747Z
+2016-03-01 17:13:51,825 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:13:51,854 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:13:51,865 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:13:52,636 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:13:52,864 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:13:52,893 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:13:52,914 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:13:52,955 ERROR a00904362.Lab7  - a00904362.NotFoundException: Player Object Not Found!
+	at a00904362.data.dao.PlayerDao.getPlayerByTag(PlayerDao.java:229)
+	at a00904362.Lab7.PopulateDB(Lab7.java:126)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 17:13:52,956 INFO  a00904362.Lab7  - 2016-03-02T01:13:52.956Z
+2016-03-01 17:13:52,956 INFO  a00904362.Lab7  - 1209 ms
+2016-03-01 17:13:52,957 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 17:13:52,958 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:14:14,396 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:14:14,400 INFO  a00904362.Lab7  - 2016-03-02T01:14:14.400Z
+2016-03-01 17:14:14,487 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:14:14,514 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:14:14,524 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:14:15,502 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:14:15,777 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:14:15,800 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:14:15,822 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:14:15,864 ERROR a00904362.Lab7  - a00904362.NotFoundException: Player Object by tag Not Found!
+	at a00904362.data.dao.PlayerDao.getPlayerByTag(PlayerDao.java:229)
+	at a00904362.Lab7.PopulateDB(Lab7.java:126)
+	at a00904362.Lab7.main(Lab7.java:70)
+
+2016-03-01 17:14:15,865 INFO  a00904362.Lab7  - 2016-03-02T01:14:15.865Z
+2016-03-01 17:14:15,866 INFO  a00904362.Lab7  - 1465 ms
+2016-03-01 17:14:15,867 INFO  a00904362.Lab7  - a00904362.data.db.Database@1d29cf23 stopped
+2016-03-01 17:14:15,868 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:15:01,133 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:15:01,137 INFO  a00904362.Lab7  - 2016-03-02T01:15:01.137Z
+2016-03-01 17:15:01,234 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:15:01,261 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:15:01,275 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:15:02,259 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:15:02,609 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:15:02,632 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:15:02,654 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:15:02,690 INFO  a00904362.Lab7  - Ithroeann - Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann]
+2016-03-01 17:15:02,708 INFO  a00904362.Lab7  - Mazzzap - Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap]
+2016-03-01 17:15:02,726 INFO  a00904362.Lab7  - Crayonbreath - Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath]
+2016-03-01 17:15:02,745 INFO  a00904362.Lab7  - Quinesia - Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia]
+2016-03-01 17:15:02,764 INFO  a00904362.Lab7  - CastleRock - Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]
+2016-03-01 17:15:02,783 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:15:02,790 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:15:02,791 INFO  a00904362.Lab7  - 2016-03-02T01:15:02.791Z
+2016-03-01 17:15:02,792 INFO  a00904362.Lab7  - 1654 ms
+2016-03-01 17:15:02,794 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:15:02,795 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:18:43,524 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:18:43,527 INFO  a00904362.Lab7  - 2016-03-02T01:18:43.527Z
+2016-03-01 17:18:43,597 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:18:43,624 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:18:43,635 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:18:44,602 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:18:44,937 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:18:44,966 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:18:44,995 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:18:45,046 INFO  a00904362.Lab7  - Ithroeann -         AlexeyFred          
+
+2016-03-01 17:18:45,067 INFO  a00904362.Lab7  - Mazzzap -           Laurie              
+
+2016-03-01 17:18:45,089 INFO  a00904362.Lab7  - Crayonbreath -      Conrad              
+
+2016-03-01 17:18:45,110 INFO  a00904362.Lab7  - Quinesia -          Jeanette            
+
+2016-03-01 17:18:45,133 INFO  a00904362.Lab7  - CastleRock -        Mark                
+
+2016-03-01 17:18:45,149 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:18:45,156 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:18:45,157 INFO  a00904362.Lab7  - 2016-03-02T01:18:45.157Z
+2016-03-01 17:18:45,158 INFO  a00904362.Lab7  - 1630 ms
+2016-03-01 17:18:45,159 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:18:45,160 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:18:55,504 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:18:55,508 INFO  a00904362.Lab7  - 2016-03-02T01:18:55.508Z
+2016-03-01 17:18:55,606 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:18:55,629 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:18:55,636 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:18:56,324 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:18:56,584 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:18:56,605 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:18:56,629 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:18:56,668 INFO  a00904362.Lab7  - Ithroeann -         AlexeyFred          
+2016-03-01 17:18:56,688 INFO  a00904362.Lab7  - Mazzzap -           Laurie              
+2016-03-01 17:18:56,708 INFO  a00904362.Lab7  - Crayonbreath -      Conrad              
+2016-03-01 17:18:56,726 INFO  a00904362.Lab7  - Quinesia -          Jeanette            
+2016-03-01 17:18:56,744 INFO  a00904362.Lab7  - CastleRock -        Mark                
+2016-03-01 17:18:56,759 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:18:56,765 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:18:56,766 INFO  a00904362.Lab7  - 2016-03-02T01:18:56.766Z
+2016-03-01 17:18:56,767 INFO  a00904362.Lab7  - 1258 ms
+2016-03-01 17:18:56,768 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:18:56,769 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:19:42,117 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:19:42,121 INFO  a00904362.Lab7  - 2016-03-02T01:19:42.121Z
+2016-03-01 17:19:42,191 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:19:42,218 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:19:42,228 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:19:43,210 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:19:43,505 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:19:43,522 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:19:43,542 INFO  a00904362.Lab7  - [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:19:43,578 INFO  a00904362.Lab7  - Ithroeann           -  AlexeyFred          
+2016-03-01 17:19:43,595 INFO  a00904362.Lab7  - Mazzzap             -  Laurie              
+2016-03-01 17:19:43,612 INFO  a00904362.Lab7  - Crayonbreath        -  Conrad              
+2016-03-01 17:19:43,629 INFO  a00904362.Lab7  - Quinesia            -  Jeanette            
+2016-03-01 17:19:43,645 INFO  a00904362.Lab7  - CastleRock          -  Mark                
+2016-03-01 17:19:43,658 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:19:43,664 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:19:43,665 INFO  a00904362.Lab7  - 2016-03-02T01:19:43.665Z
+2016-03-01 17:19:43,666 INFO  a00904362.Lab7  - 1544 ms
+2016-03-01 17:19:43,667 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:19:43,668 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:20:45,249 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:20:45,253 INFO  a00904362.Lab7  - 2016-03-02T01:20:45.253Z
+2016-03-01 17:20:45,322 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:20:45,348 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:20:45,361 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:20:46,292 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:20:46,621 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:20:46,650 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:20:46,681 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:20:46,734 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  AlexeyFred          
+2016-03-01 17:20:46,757 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Laurie              
+2016-03-01 17:20:46,782 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Conrad              
+2016-03-01 17:20:46,802 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Jeanette            
+2016-03-01 17:20:46,825 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Mark                
+2016-03-01 17:20:46,839 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:20:46,845 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:20:46,847 INFO  a00904362.Lab7  - 2016-03-02T01:20:46.847Z
+2016-03-01 17:20:46,848 INFO  a00904362.Lab7  - 1594 ms
+2016-03-01 17:20:46,849 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:20:46,849 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:24:01,516 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:24:01,519 INFO  a00904362.Lab7  - 2016-03-02T01:24:01.519Z
+2016-03-01 17:24:01,593 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:24:01,623 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:24:01,635 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:24:01,753 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:24:02,757 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:24:02,790 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:24:03,115 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:24:03,166 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:24:03,221 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:24:03,320 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  AlexeyFred          
+2016-03-01 17:24:03,372 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Laurie              
+2016-03-01 17:24:03,422 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Conrad              
+2016-03-01 17:24:03,472 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Jeanette            
+2016-03-01 17:24:03,528 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Mark                
+2016-03-01 17:24:03,546 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:24:03,552 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:24:03,553 INFO  a00904362.Lab7  - 2016-03-02T01:24:03.553Z
+2016-03-01 17:24:03,554 INFO  a00904362.Lab7  - 2034 ms
+2016-03-01 17:24:03,555 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:24:03,556 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:28:05,086 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:28:05,090 INFO  a00904362.Lab7  - 2016-03-02T01:28:05.090Z
+2016-03-01 17:28:05,158 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:28:05,184 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:28:05,194 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:28:05,307 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:28:06,196 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:28:06,215 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:28:06,496 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:28:06,517 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:28:06,537 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:28:06,568 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  AlexeyFred          
+2016-03-01 17:28:06,585 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Laurie              
+2016-03-01 17:28:06,601 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Conrad              
+2016-03-01 17:28:06,616 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Jeanette            
+2016-03-01 17:28:06,632 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Mark                
+2016-03-01 17:28:06,646 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:28:06,652 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:28:06,652 INFO  a00904362.Lab7  - 2016-03-02T01:28:06.652Z
+2016-03-01 17:28:06,653 INFO  a00904362.Lab7  - 1562 ms
+2016-03-01 17:28:06,655 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:28:06,656 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:31:10,220 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:31:10,224 INFO  a00904362.Lab7  - 2016-03-02T01:31:10.224Z
+2016-03-01 17:31:10,291 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:31:10,321 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:31:10,332 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:31:10,419 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:31:11,334 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:31:11,353 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:31:11,660 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:31:11,682 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:31:11,703 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:31:11,738 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  Fish                
+2016-03-01 17:31:11,756 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Nash                
+2016-03-01 17:31:11,773 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Washington          
+2016-03-01 17:31:11,790 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Price               
+2016-03-01 17:31:11,807 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Chan                
+2016-03-01 17:31:11,820 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:31:11,827 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:31:11,827 INFO  a00904362.Lab7  - 2016-03-02T01:31:11.827Z
+2016-03-01 17:31:11,828 INFO  a00904362.Lab7  - 1603 ms
+2016-03-01 17:31:11,829 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:31:11,830 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:40:56,079 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:40:56,083 INFO  a00904362.Lab7  - 2016-03-02T01:40:56.083Z
+2016-03-01 17:40:56,155 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:40:56,182 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:40:56,193 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:40:56,281 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:40:56,835 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:40:56,853 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:40:57,166 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:40:57,191 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:40:57,210 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:40:57,243 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  Fish                
+2016-03-01 17:40:57,259 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Nash                
+2016-03-01 17:40:57,276 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Washington          
+2016-03-01 17:40:57,294 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Price               
+2016-03-01 17:40:57,312 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Chan                
+2016-03-01 17:40:57,327 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:40:57,334 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:40:57,335 INFO  a00904362.Lab7  - 2016-03-02T01:40:57.335Z
+2016-03-01 17:40:57,336 INFO  a00904362.Lab7  - 1252 ms
+2016-03-01 17:40:57,337 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:40:57,338 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:42:51,398 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:42:51,403 INFO  a00904362.Lab7  - 2016-03-02T01:42:51.403Z
+2016-03-01 17:42:51,508 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:42:51,534 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:42:51,545 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:42:51,632 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:42:52,497 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:42:52,518 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:42:52,820 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:42:52,864 INFO  a00904362.Lab7  - Table A00904362_Player dropped
+2016-03-01 17:42:52,883 ERROR a00904362.Lab7  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'A00904362_Player'.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:197)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1493)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:390)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:340)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:4874)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:1400)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:179)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:154)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:283)
+	at a00904362.data.dao.PlayerDao.countAll(PlayerDao.java:197)
+	at a00904362.Lab7.PopulateDB(Lab7.java:122)
+	at a00904362.Lab7.main(Lab7.java:69)
+
+2016-03-01 17:42:52,884 INFO  a00904362.Lab7  - 2016-03-02T01:42:52.884Z
+2016-03-01 17:42:52,885 INFO  a00904362.Lab7  - 1481 ms
+2016-03-01 17:42:52,886 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:42:52,887 INFO  a00904362.Lab7  - End Lab7. exit_code -1
+2016-03-01 17:43:19,712 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:43:19,718 INFO  a00904362.Lab7  - 2016-03-02T01:43:19.718Z
+2016-03-01 17:43:19,836 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:43:19,864 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:43:19,874 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:43:19,962 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:43:20,827 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:43:20,846 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:43:21,175 INFO  a00904362.Lab7  - Table A00904362_Player doesnt exists
+2016-03-01 17:43:21,187 INFO  a00904362.Lab7  - Table A00904362_Player created
+2016-03-01 17:43:21,297 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:43:21,320 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:43:21,359 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  Fish                
+2016-03-01 17:43:21,377 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Nash                
+2016-03-01 17:43:21,396 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Washington          
+2016-03-01 17:43:21,415 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Price               
+2016-03-01 17:43:21,434 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Chan                
+2016-03-01 17:43:21,448 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:43:21,455 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:43:21,456 INFO  a00904362.Lab7  - 2016-03-02T01:43:21.456Z
+2016-03-01 17:43:21,457 INFO  a00904362.Lab7  - 1738 ms
+2016-03-01 17:43:21,458 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:43:21,460 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:44:29,322 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:44:29,325 INFO  a00904362.Lab7  - 2016-03-02T01:44:29.325Z
+2016-03-01 17:44:29,404 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:44:29,432 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:44:29,444 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:44:29,531 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:44:30,405 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:44:30,423 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:44:30,695 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:44:30,718 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:44:30,738 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:44:30,771 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  Fish                
+2016-03-01 17:44:30,788 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Nash                
+2016-03-01 17:44:30,807 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Washington          
+2016-03-01 17:44:30,824 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Price               
+2016-03-01 17:44:30,841 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Chan                
+2016-03-01 17:44:30,854 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:44:30,860 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:44:30,861 INFO  a00904362.Lab7  - 2016-03-02T01:44:30.861Z
+2016-03-01 17:44:30,862 INFO  a00904362.Lab7  - 1536 ms
+2016-03-01 17:44:30,863 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:44:30,864 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:49:18,794 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:49:18,801 INFO  a00904362.Lab7  - 2016-03-02T01:49:18.801Z
+2016-03-01 17:49:18,920 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:49:18,955 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:49:18,973 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:49:19,094 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:49:19,703 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:49:19,740 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:49:20,087 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:49:20,107 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:49:20,125 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:49:20,157 INFO  a00904362.Lab7  - players by tag - Ithroeann           -  Fish                
+2016-03-01 17:49:20,174 INFO  a00904362.Lab7  - players by tag - Mazzzap             -  Nash                
+2016-03-01 17:49:20,191 INFO  a00904362.Lab7  - players by tag - Crayonbreath        -  Washington          
+2016-03-01 17:49:20,209 INFO  a00904362.Lab7  - players by tag - Quinesia            -  Price               
+2016-03-01 17:49:20,225 INFO  a00904362.Lab7  - players by tag - CastleRock          -  Chan                
+2016-03-01 17:49:20,247 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:49:20,254 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:49:20,255 INFO  a00904362.Lab7  - 2016-03-02T01:49:20.255Z
+2016-03-01 17:49:20,257 INFO  a00904362.Lab7  - 1454 ms
+2016-03-01 17:49:20,258 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:49:20,259 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-01 17:54:27,321 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-01 17:54:27,324 INFO  a00904362.Lab7  - 2016-03-02T01:54:27.324Z
+2016-03-01 17:54:27,399 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-01 17:54:27,428 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-01 17:54:27,439 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-01 17:54:27,527 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-01 17:54:28,391 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-01 17:54:28,408 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-01 17:54:28,715 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-01 17:54:28,735 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-01 17:54:28,755 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-01 17:54:28,787 INFO  a00904362.Lab7  - find player by tag - Ithroeann           -  Fish                
+2016-03-01 17:54:28,803 INFO  a00904362.Lab7  - find player by tag - Mazzzap             -  Nash                
+2016-03-01 17:54:28,820 INFO  a00904362.Lab7  - find player by tag - Crayonbreath        -  Washington          
+2016-03-01 17:54:28,836 INFO  a00904362.Lab7  - find player by tag - Quinesia            -  Price               
+2016-03-01 17:54:28,888 INFO  a00904362.Lab7  - find player by tag - CastleRock          -  Chan                
+2016-03-01 17:54:28,901 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-01 17:54:28,907 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-01 17:54:28,908 INFO  a00904362.Lab7  - 2016-03-02T01:54:28.908Z
+2016-03-01 17:54:28,909 INFO  a00904362.Lab7  - 1584 ms
+2016-03-01 17:54:28,910 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-01 17:54:28,910 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-02 09:10:58,257 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-02 09:10:58,260 INFO  a00904362.Lab7  - 2016-03-02T17:10:58.260Z
+2016-03-02 09:10:58,328 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-02 09:10:58,357 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-02 09:10:58,368 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-02 09:10:58,482 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-02 09:10:59,390 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-02 09:10:59,405 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-02 09:10:59,703 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-02 09:10:59,724 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-02 09:10:59,744 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-02 09:10:59,778 INFO  a00904362.Lab7  - find playerby tag - Ithroeann           -  Fish                
+2016-03-02 09:10:59,794 INFO  a00904362.Lab7  - find playerby tag - Mazzzap             -  Nash                
+2016-03-02 09:10:59,810 INFO  a00904362.Lab7  - find playerby tag - Crayonbreath        -  Washington          
+2016-03-02 09:10:59,827 INFO  a00904362.Lab7  - find playerby tag - Quinesia            -  Price               
+2016-03-02 09:10:59,843 INFO  a00904362.Lab7  - find playerby tag - CastleRock          -  Chan                
+2016-03-02 09:10:59,858 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-02 09:10:59,864 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-02 09:10:59,865 INFO  a00904362.Lab7  - 2016-03-02T17:10:59.865Z
+2016-03-02 09:10:59,866 INFO  a00904362.Lab7  - 1605 ms
+2016-03-02 09:10:59,867 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-02 09:10:59,868 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-02 09:14:23,872 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-02 09:14:23,876 INFO  a00904362.Lab7  - 2016-03-02T17:14:23.876Z
+2016-03-02 09:14:23,948 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-02 09:14:23,973 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-02 09:14:23,985 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-02 09:14:24,070 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-02 09:14:24,852 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-02 09:14:24,866 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-02 09:14:25,150 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-02 09:14:25,171 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-02 09:14:25,192 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-02 09:14:25,227 INFO  a00904362.Lab7  - find playerby tag - Ithroeann           -  AlexeyFred Fish     
+2016-03-02 09:14:25,244 INFO  a00904362.Lab7  - find playerby tag - Mazzzap             -  Laurie Nash         
+2016-03-02 09:14:25,262 INFO  a00904362.Lab7  - find playerby tag - Crayonbreath        -  Conrad Washington   
+2016-03-02 09:14:25,279 INFO  a00904362.Lab7  - find playerby tag - Quinesia            -  Jeanette Price      
+2016-03-02 09:14:25,296 INFO  a00904362.Lab7  - find playerby tag - CastleRock          -  Mark Chan           
+2016-03-02 09:14:25,310 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-02 09:14:25,316 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-02 09:14:25,316 INFO  a00904362.Lab7  - 2016-03-02T17:14:25.316Z
+2016-03-02 09:14:25,317 INFO  a00904362.Lab7  - 1440 ms
+2016-03-02 09:14:25,318 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-02 09:14:25,319 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-02 09:14:44,031 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-02 09:14:44,037 INFO  a00904362.Lab7  - 2016-03-02T17:14:44.037Z
+2016-03-02 09:14:44,154 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-02 09:14:44,181 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-02 09:14:44,191 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-02 09:14:44,278 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-02 09:14:45,245 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-02 09:14:45,257 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-02 09:14:45,514 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-02 09:14:45,535 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-02 09:14:45,555 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-02 09:14:45,590 INFO  a00904362.Lab7  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-02 09:14:45,607 INFO  a00904362.Lab7  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-02 09:14:45,624 INFO  a00904362.Lab7  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-02 09:14:45,641 INFO  a00904362.Lab7  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-02 09:14:45,659 INFO  a00904362.Lab7  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-02 09:14:45,673 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-02 09:14:45,679 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-02 09:14:45,680 INFO  a00904362.Lab7  - 2016-03-02T17:14:45.680Z
+2016-03-02 09:14:45,681 INFO  a00904362.Lab7  - 1643 ms
+2016-03-02 09:14:45,682 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-02 09:14:45,683 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-02 17:00:41,498 INFO  a00904362.Lab7  - Starting Lab7
+2016-03-02 17:00:41,515 INFO  a00904362.Lab7  - 2016-03-03T01:00:41.515Z
+2016-03-02 17:00:41,623 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-02 17:00:41,684 INFO  a00904362.Lab7  - End PlayersIO.populatePlayers
+2016-03-02 17:00:41,717 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-02 17:00:41,862 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-02 17:00:42,631 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-02 17:00:42,653 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-02 17:00:42,942 INFO  a00904362.Lab7  - Table A00904362_Player exists
+2016-03-02 17:00:42,965 INFO  a00904362.Lab7  - Table A00904362_Player contains 5 records
+2016-03-02 17:00:42,989 INFO  a00904362.Lab7  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-02 17:00:43,024 INFO  a00904362.Lab7  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-02 17:00:43,043 INFO  a00904362.Lab7  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-02 17:00:43,062 INFO  a00904362.Lab7  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-02 17:00:43,081 INFO  a00904362.Lab7  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-02 17:00:43,099 INFO  a00904362.Lab7  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-02 17:00:43,130 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-02 17:00:43,136 INFO  a00904362.Lab7  - End PlayersIO.displayPlayers
+2016-03-02 17:00:43,136 INFO  a00904362.Lab7  - 2016-03-03T01:00:43.136Z
+2016-03-02 17:00:43,137 INFO  a00904362.Lab7  - 1621 ms
+2016-03-02 17:00:43,138 INFO  a00904362.Lab7  - a00904362.data.db.Database@5f282abb stopped
+2016-03-02 17:00:43,139 INFO  a00904362.Lab7  - End Lab7. exit_code 0
+2016-03-14 17:27:36,464 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:27:36,489 INFO  a00904362.Lab9  - 2016-03-15T00:27:36.489Z
+2016-03-14 17:27:36,587 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:27:36,608 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:27:36,610 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:27:36,860 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:27:37,653 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:27:37,656 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:27:37,808 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:27:37,826 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:27:37,845 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:27:37,879 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:27:37,895 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:27:37,911 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:27:37,927 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:27:37,944 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:27:37,951 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:27:37,955 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:27:37,955 INFO  a00904362.Lab9  - 2016-03-15T00:27:37.955Z
+2016-03-14 17:27:37,956 INFO  a00904362.Lab9  - 1466 ms
+2016-03-14 17:27:37,956 INFO  a00904362.Lab9  - a00904362.data.db.Database@5f282abb stopped
+2016-03-14 17:27:37,956 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 17:45:12,234 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:45:12,237 INFO  a00904362.Lab9  - 2016-03-15T00:45:12.237Z
+2016-03-14 17:45:12,309 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:45:12,324 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:45:12,325 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:45:12,392 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:45:12,855 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:45:12,858 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:45:13,007 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:45:13,025 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:45:13,046 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:45:13,080 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:45:13,097 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:45:13,113 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:45:13,129 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:45:13,145 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:45:13,151 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:45:13,155 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:45:13,155 INFO  a00904362.Lab9  - 2016-03-15T00:45:13.155Z
+2016-03-14 17:45:13,155 INFO  a00904362.Lab9  - 918 ms
+2016-03-14 17:45:13,156 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 17:45:13,156 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 17:51:06,429 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:51:06,431 INFO  a00904362.Lab9  - 2016-03-15T00:51:06.431Z
+2016-03-14 17:51:06,495 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:51:06,509 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:51:06,510 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:51:06,574 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:51:07,043 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:51:07,044 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:51:07,137 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:51:07,155 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:51:07,175 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:51:07,209 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:51:07,226 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:51:07,242 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:51:07,258 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:51:07,275 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:51:07,280 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:51:07,284 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:51:07,284 INFO  a00904362.Lab9  - 2016-03-15T00:51:07.284Z
+2016-03-14 17:51:07,285 INFO  a00904362.Lab9  - 853 ms
+2016-03-14 17:51:07,285 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 17:51:07,285 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 17:52:00,803 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:52:00,805 INFO  a00904362.Lab9  - 2016-03-15T00:52:00.805Z
+2016-03-14 17:52:00,868 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:52:00,881 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:52:00,882 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:52:00,947 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:52:01,402 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:52:01,404 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:52:01,497 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:52:01,514 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:52:01,533 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:52:01,566 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:52:01,582 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:52:01,599 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:52:01,614 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:52:01,630 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:52:01,636 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:52:01,640 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:52:01,640 INFO  a00904362.Lab9  - 2016-03-15T00:52:01.640Z
+2016-03-14 17:52:01,640 INFO  a00904362.Lab9  - 835 ms
+2016-03-14 17:52:01,641 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 17:52:01,641 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 17:56:46,083 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:56:46,086 INFO  a00904362.Lab9  - 2016-03-15T00:56:46.086Z
+2016-03-14 17:56:46,149 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:56:46,162 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:56:46,163 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:56:46,228 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:56:46,737 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:56:46,738 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:56:46,870 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:56:46,886 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:56:46,903 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:56:46,935 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:56:46,950 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:56:46,967 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:56:46,982 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:56:46,998 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:56:47,004 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:56:47,007 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:56:47,007 INFO  a00904362.Lab9  - 2016-03-15T00:56:47.007Z
+2016-03-14 17:56:47,008 INFO  a00904362.Lab9  - 921 ms
+2016-03-14 17:56:47,008 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 17:56:47,008 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 17:59:43,576 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 17:59:43,578 INFO  a00904362.Lab9  - 2016-03-15T00:59:43.578Z
+2016-03-14 17:59:43,644 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 17:59:43,657 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 17:59:43,658 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 17:59:43,724 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 17:59:44,182 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 17:59:44,183 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 17:59:44,277 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 17:59:44,294 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 17:59:44,312 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 17:59:44,345 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 17:59:44,363 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 17:59:44,380 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 17:59:44,396 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 17:59:44,412 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 17:59:44,416 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 17:59:44,418 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 17:59:44,418 INFO  a00904362.Lab9  - 2016-03-15T00:59:44.418Z
+2016-03-14 17:59:44,418 INFO  a00904362.Lab9  - 840 ms
+2016-03-14 17:59:44,418 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 17:59:44,418 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 18:00:29,864 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 18:00:29,866 INFO  a00904362.Lab9  - 2016-03-15T01:00:29.866Z
+2016-03-14 18:00:29,932 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 18:00:29,946 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 18:00:29,947 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 18:00:30,014 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 18:00:30,465 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 18:00:30,466 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 18:00:30,589 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 18:00:30,607 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 18:00:30,627 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 18:00:30,662 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 18:00:30,678 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 18:00:30,696 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 18:00:30,712 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 18:00:30,729 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 18:00:30,735 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 18:00:30,739 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 18:00:30,740 INFO  a00904362.Lab9  - 2016-03-15T01:00:30.740Z
+2016-03-14 18:00:30,740 INFO  a00904362.Lab9  - 874 ms
+2016-03-14 18:00:30,740 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 18:00:30,741 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-14 18:02:37,719 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-14 18:02:37,721 INFO  a00904362.Lab9  - 2016-03-15T01:02:37.721Z
+2016-03-14 18:02:37,786 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-14 18:02:37,799 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-14 18:02:37,800 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-14 18:02:37,866 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-14 18:02:38,319 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-14 18:02:38,322 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-14 18:02:38,443 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-14 18:02:38,460 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-14 18:02:38,478 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-14 18:02:38,509 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-14 18:02:38,524 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-14 18:02:38,539 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-14 18:02:38,554 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-14 18:02:38,568 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-14 18:02:38,575 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-14 18:02:38,578 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-14 18:02:38,578 INFO  a00904362.Lab9  - 2016-03-15T01:02:38.578Z
+2016-03-14 18:02:38,579 INFO  a00904362.Lab9  - 857 ms
+2016-03-14 18:02:38,579 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-14 18:02:38,579 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 09:51:36,981 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 09:51:36,984 INFO  a00904362.Lab9  - 2016-03-15T16:51:36.984Z
+2016-03-15 09:51:37,047 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 09:51:37,060 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 09:51:37,061 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 09:51:37,127 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 09:51:37,590 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 09:51:37,593 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 09:51:37,715 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 09:51:37,736 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 09:51:37,758 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 09:51:37,796 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 09:51:37,814 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 09:51:37,837 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 09:51:37,861 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 09:51:37,883 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 09:51:37,889 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 09:51:37,892 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 09:51:37,892 INFO  a00904362.Lab9  - 2016-03-15T16:51:37.892Z
+2016-03-15 09:51:37,893 INFO  a00904362.Lab9  - 908 ms
+2016-03-15 09:51:37,893 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-15 09:51:37,893 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 09:57:27,894 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 09:57:27,898 INFO  a00904362.Lab9  - 2016-03-15T16:57:27.898Z
+2016-03-15 09:57:27,970 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 09:57:27,999 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 09:57:28,011 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 09:57:28,119 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 09:57:28,719 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 09:57:28,757 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 09:57:29,085 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 09:57:29,106 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 09:57:29,128 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 09:57:29,162 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 09:57:29,179 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 09:57:29,198 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 09:57:29,214 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 09:57:29,231 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 09:57:29,246 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 09:57:29,251 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 09:57:29,251 INFO  a00904362.Lab9  - 2016-03-15T16:57:29.251Z
+2016-03-15 09:57:29,252 INFO  a00904362.Lab9  - 1353 ms
+2016-03-15 09:57:29,253 INFO  a00904362.Lab9  - a00904362.data.db.Database@1e965684 stopped
+2016-03-15 09:57:29,254 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 10:03:19,898 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 10:03:19,902 INFO  a00904362.Lab9  - 2016-03-15T17:03:19.902Z
+2016-03-15 10:03:19,971 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 10:03:19,998 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 10:03:20,006 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 10:03:20,089 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 10:03:20,767 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 10:03:20,785 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 10:03:21,052 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 10:03:21,073 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 10:03:21,094 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 10:03:21,131 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 10:03:21,149 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 10:03:21,168 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 10:03:21,185 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 10:03:21,202 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 10:03:21,215 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 10:03:21,221 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 10:03:21,366 INFO  a00904362.Lab9  - 2016-03-15T17:03:21.366Z
+2016-03-15 10:03:21,367 INFO  a00904362.Lab9  - 1464 ms
+2016-03-15 10:03:21,369 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 10:03:21,369 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 10:03:42,230 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 10:03:42,233 INFO  a00904362.Lab9  - 2016-03-15T17:03:42.233Z
+2016-03-15 10:03:42,305 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 10:03:42,329 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 10:03:42,338 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 10:03:42,427 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 10:03:42,959 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 10:03:42,986 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 10:03:43,306 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 10:03:43,325 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 10:03:43,345 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 10:03:43,378 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 10:03:43,394 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 10:03:43,410 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 10:03:43,428 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 10:03:43,444 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 10:03:43,460 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 10:03:43,467 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 10:03:43,594 INFO  a00904362.Lab9  - 2016-03-15T17:03:43.594Z
+2016-03-15 10:03:43,595 INFO  a00904362.Lab9  - 1361 ms
+2016-03-15 10:03:43,595 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 10:03:43,596 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 10:04:30,323 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 10:04:30,329 INFO  a00904362.Lab9  - 2016-03-15T17:04:30.329Z
+2016-03-15 10:04:30,455 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 10:04:30,483 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 10:04:30,493 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 10:04:30,614 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 10:04:31,504 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 10:04:31,521 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 10:04:31,781 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 10:04:31,803 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 10:04:31,822 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 10:04:31,858 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 10:04:31,875 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 10:04:31,893 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 10:04:31,910 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 10:04:31,927 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 10:04:31,940 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 10:04:31,946 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 10:04:31,947 INFO  a00904362.Lab9  - GUI started
+2016-03-15 10:04:32,092 INFO  a00904362.Lab9  - GUI stopped
+2016-03-15 10:04:32,093 INFO  a00904362.Lab9  - 2016-03-15T17:04:32.093Z
+2016-03-15 10:04:32,094 INFO  a00904362.Lab9  - 1764 ms
+2016-03-15 10:04:32,095 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 10:04:32,096 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 10:06:49,627 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 10:06:49,631 INFO  a00904362.Lab9  - 2016-03-15T17:06:49.631Z
+2016-03-15 10:06:49,715 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 10:06:49,744 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 10:06:49,754 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 10:06:49,846 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 10:06:50,663 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 10:06:50,682 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 10:06:50,980 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 10:06:51,000 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 10:06:51,021 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 10:06:51,054 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 10:06:51,070 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 10:06:51,090 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 10:06:51,106 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 10:06:51,123 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 10:06:51,136 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 10:06:51,142 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 10:06:51,143 INFO  a00904362.Lab9  - GUI started
+2016-03-15 10:06:51,253 INFO  a00904362.Lab9  - 2016-03-15T17:06:51.253Z
+2016-03-15 10:06:51,254 INFO  a00904362.Lab9  - 1622 ms
+2016-03-15 10:06:51,255 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 10:06:51,256 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 10:18:19,782 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 10:18:19,788 INFO  a00904362.Lab9  - 2016-03-15T17:18:19.788Z
+2016-03-15 10:18:19,882 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 10:18:19,910 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 10:18:19,920 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 10:18:20,007 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 10:18:20,857 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 10:18:20,876 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 10:18:21,176 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 10:18:21,199 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 10:18:21,220 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 10:18:21,260 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 10:18:21,278 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 10:18:21,295 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 10:18:21,312 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 10:18:21,328 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 10:18:21,338 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 10:18:21,342 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 10:18:21,343 INFO  a00904362.Lab9  - GUI started
+2016-03-15 10:18:21,420 INFO  a00904362.Lab9  - 2016-03-15T17:18:21.420Z
+2016-03-15 10:18:21,420 INFO  a00904362.Lab9  - 1632 ms
+2016-03-15 10:18:21,421 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 10:18:21,422 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 16:56:49,694 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 16:56:49,701 INFO  a00904362.Lab9  - 2016-03-15T23:56:49.701Z
+2016-03-15 16:56:49,845 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 16:56:49,896 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 16:56:49,917 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 16:56:50,052 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 16:56:51,118 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 16:56:51,151 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 16:56:51,475 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 16:56:51,501 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 16:56:51,524 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 16:56:51,561 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 16:56:51,579 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 16:56:51,605 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 16:56:51,624 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 16:56:51,642 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 16:56:51,662 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 16:56:51,669 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 16:56:51,670 INFO  a00904362.Lab9  - GUI started
+2016-03-15 16:56:51,813 INFO  a00904362.Lab9  - 2016-03-15T23:56:51.813Z
+2016-03-15 16:56:51,814 INFO  a00904362.Lab9  - 2112 ms
+2016-03-15 16:56:51,815 INFO  a00904362.Lab9  - a00904362.data.db.Database@1b68ddbd stopped
+2016-03-15 16:56:51,816 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:18:20,272 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:18:20,276 INFO  a00904362.Lab9  - 2016-03-16T00:18:20.276Z
+2016-03-15 17:18:20,348 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:18:20,376 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:18:20,392 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:18:20,522 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:18:21,464 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:18:21,500 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:18:21,829 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:18:21,867 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:18:21,900 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:18:21,969 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:18:22,006 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:18:22,039 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:18:22,078 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:18:22,099 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:18:22,117 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:18:22,124 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:18:22,125 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:18:22,267 INFO  a00904362.Lab9  - 2016-03-16T00:18:22.267Z
+2016-03-15 17:18:22,269 INFO  a00904362.Lab9  - 1991 ms
+2016-03-15 17:18:22,270 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:18:22,271 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:40:15,923 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:40:15,927 INFO  a00904362.Lab9  - 2016-03-16T00:40:15.927Z
+2016-03-15 17:40:16,011 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:40:16,041 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:40:16,055 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:40:16,144 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:40:17,414 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:40:17,446 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:40:17,806 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:40:17,904 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:40:18,007 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:40:18,194 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:40:18,298 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:40:18,402 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:40:18,501 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:40:18,608 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:40:18,620 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:40:18,625 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:40:18,626 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:40:18,705 INFO  a00904362.Lab9  - 2016-03-16T00:40:18.705Z
+2016-03-15 17:40:18,706 INFO  a00904362.Lab9  - 2778 ms
+2016-03-15 17:40:18,707 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:40:18,707 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:40:39,546 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:40:39,552 INFO  a00904362.Lab9  - 2016-03-16T00:40:39.552Z
+2016-03-15 17:40:39,678 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:40:39,708 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:40:39,715 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:40:39,816 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:40:40,546 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:40:40,568 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:40:40,849 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:40:40,910 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:40:40,979 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:40:41,112 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:40:41,178 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:40:41,249 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:40:41,318 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:40:41,390 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:40:41,406 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:40:41,413 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:40:41,413 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:40:41,534 INFO  a00904362.Lab9  - 2016-03-16T00:40:41.534Z
+2016-03-15 17:40:41,535 INFO  a00904362.Lab9  - 1982 ms
+2016-03-15 17:40:41,536 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:40:41,536 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:42:55,060 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:42:55,064 INFO  a00904362.Lab9  - 2016-03-16T00:42:55.064Z
+2016-03-15 17:42:55,138 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:42:55,164 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:42:55,174 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:42:55,258 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:42:55,855 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:42:55,883 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:42:56,095 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:42:56,120 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:42:56,142 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:42:56,186 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:42:56,210 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:42:56,231 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:42:56,248 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:42:56,279 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:42:56,295 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:42:56,301 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:42:56,302 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:42:56,440 INFO  a00904362.Lab9  - 2016-03-16T00:42:56.440Z
+2016-03-15 17:42:56,441 INFO  a00904362.Lab9  - 1376 ms
+2016-03-15 17:42:56,442 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:42:56,443 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:43:51,306 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:43:51,311 INFO  a00904362.Lab9  - 2016-03-16T00:43:51.311Z
+2016-03-15 17:43:51,402 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:43:51,428 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:43:51,437 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:43:51,529 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:43:52,101 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:43:52,126 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:43:52,323 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:43:52,371 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:43:52,428 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:43:52,537 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:43:52,587 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:43:52,625 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:43:52,666 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:43:52,710 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:43:52,722 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:43:52,726 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:43:52,726 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:43:52,802 INFO  a00904362.Lab9  - 2016-03-16T00:43:52.802Z
+2016-03-15 17:43:52,803 INFO  a00904362.Lab9  - 1491 ms
+2016-03-15 17:43:52,804 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:43:52,805 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:44:17,440 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:44:17,443 INFO  a00904362.Lab9  - 2016-03-16T00:44:17.443Z
+2016-03-15 17:44:17,531 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:44:17,560 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:44:17,570 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:44:17,670 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:44:18,321 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:44:18,348 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:44:18,618 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:44:18,652 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:44:18,691 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:44:18,745 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:44:18,768 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:44:18,791 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:44:18,811 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:44:18,832 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:44:18,851 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:44:18,857 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:44:18,858 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:44:18,962 INFO  a00904362.Lab9  - 2016-03-16T00:44:18.962Z
+2016-03-15 17:44:18,963 INFO  a00904362.Lab9  - 1519 ms
+2016-03-15 17:44:18,964 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:44:18,964 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-15 17:46:16,621 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-15 17:46:16,625 INFO  a00904362.Lab9  - 2016-03-16T00:46:16.625Z
+2016-03-15 17:46:16,712 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-15 17:46:16,741 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-15 17:46:16,752 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-15 17:46:16,831 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-15 17:46:17,345 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-15 17:46:17,371 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-15 17:46:17,626 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-15 17:46:17,649 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-15 17:46:17,671 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-15 17:46:17,706 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-15 17:46:17,725 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-15 17:46:17,745 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-15 17:46:17,763 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-15 17:46:17,785 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-15 17:46:17,802 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-15 17:46:17,808 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-15 17:46:17,809 INFO  a00904362.Lab9  - GUI started
+2016-03-15 17:46:17,951 INFO  a00904362.Lab9  - 2016-03-16T00:46:17.951Z
+2016-03-15 17:46:17,952 INFO  a00904362.Lab9  - 1326 ms
+2016-03-15 17:46:17,954 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-15 17:46:17,955 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-16 15:41:44,247 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-16 15:42:38,680 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-16 15:42:38,685 INFO  a00904362.Lab9  - 2016-03-16T22:42:38.685Z
+2016-03-16 15:42:38,770 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-16 15:42:38,804 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-16 15:42:38,823 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-16 15:42:38,993 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-16 15:42:39,959 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-16 15:42:40,032 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-16 15:42:40,502 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-16 15:42:40,524 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-16 15:42:40,545 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-16 15:42:40,580 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-16 15:42:40,598 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-16 15:42:40,615 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-16 15:42:40,631 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-16 15:42:40,649 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-16 15:42:40,683 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-16 15:42:40,688 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-16 15:42:40,689 INFO  a00904362.Lab9  - GUI started
+2016-03-16 15:42:40,798 INFO  a00904362.Lab9  - 2016-03-16T22:42:40.798Z
+2016-03-16 15:42:40,801 INFO  a00904362.Lab9  - 2113 ms
+2016-03-16 15:42:40,802 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-16 15:42:40,804 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-16 15:42:47,211 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-16 15:42:47,218 INFO  a00904362.Lab9  - 2016-03-16T22:42:47.218Z
+2016-03-16 15:42:47,344 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-16 15:42:47,373 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-16 15:42:47,385 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-16 15:42:47,526 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-16 15:42:48,088 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-16 15:42:48,109 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-16 15:42:48,383 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-16 15:42:48,404 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-16 15:42:48,426 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-16 15:42:48,474 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-16 15:42:48,492 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-16 15:42:48,510 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-16 15:42:48,527 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-16 15:42:48,545 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-16 15:42:48,561 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-16 15:42:48,568 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-16 15:42:48,569 INFO  a00904362.Lab9  - GUI started
+2016-03-16 15:42:48,677 INFO  a00904362.Lab9  - 2016-03-16T22:42:48.677Z
+2016-03-16 15:42:48,678 INFO  a00904362.Lab9  - 1459 ms
+2016-03-16 15:42:48,679 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-16 15:42:48,680 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-16 17:01:10,643 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-16 17:01:10,682 INFO  a00904362.Lab9  - 2016-03-17T00:01:10.682Z
+2016-03-16 17:01:10,785 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-16 17:01:10,851 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-16 17:01:10,956 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-16 17:01:11,126 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-16 17:01:12,204 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-16 17:01:12,282 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-16 17:01:12,653 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-16 17:01:12,673 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-16 17:01:12,693 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-16 17:01:12,727 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-16 17:01:12,743 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-16 17:01:12,760 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-16 17:01:12,777 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-16 17:01:12,794 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-16 17:01:12,866 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-16 17:01:12,894 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-16 17:01:12,895 INFO  a00904362.Lab9  - GUI started
+2016-03-16 17:01:13,000 INFO  a00904362.Lab9  - 2016-03-17T00:01:13Z
+2016-03-16 17:01:13,001 INFO  a00904362.Lab9  - 2318 ms
+2016-03-16 17:01:13,002 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-16 17:01:13,003 INFO  a00904362.Lab9  - End Lab7. exit_code 0
+2016-03-17 11:01:57,120 INFO  a00904362.Lab9  - Starting Lab7
+2016-03-17 11:01:57,138 INFO  a00904362.Lab9  - 2016-03-17T18:01:57.138Z
+2016-03-17 11:01:57,276 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.populatePlayers
+2016-03-17 11:01:57,330 INFO  a00904362.Lab9  - End PlayersIO.populatePlayers
+2016-03-17 11:01:57,384 DEBUG a00904362.data.db.Database  - Loading database properties from db.properties
+2016-03-17 11:01:57,543 DEBUG a00904362.data.db.Database  - Driver loaded 
+2016-03-17 11:01:58,416 DEBUG a00904362.data.db.Database  - Database connected Microsoft SQL Server
+2016-03-17 11:01:58,504 INFO  a00904362.data.dao.PlayerDao  - Starting class a00904362.data.dao.PlayerDao
+2016-03-17 11:01:58,847 INFO  a00904362.Lab9  - Table A00904362_Player exists
+2016-03-17 11:01:58,867 INFO  a00904362.Lab9  - Table A00904362_Player contains 5 records
+2016-03-17 11:01:58,887 INFO  a00904362.Lab9  - records- [Player [id=1, firstname=AlexeyFred, lasttname=Fish, email=fredfish@gamer.net, gamertag=Ithroeann], Player [id=2, firstname=Laurie, lasttname=Nash, email=laurieeenash@gmail.com, gamertag=Mazzzap], Player [id=3, firstname=Conrad, lasttname=Washington, email=fredfish@gamer.net, gamertag=Crayonbreath], Player [id=4, firstname=Jeanette, lasttname=Price, email=priceizrite@hotmail.com, gamertag=Quinesia], Player [id=5, firstname=Mark, lasttname=Chan, email=mchan@oneminutemail.com, gamertag=CastleRock]]
+2016-03-17 11:01:58,921 INFO  a00904362.Lab9  - find playerby tag - Ithroeann      -  AlexeyFred Fish     
+2016-03-17 11:01:58,938 INFO  a00904362.Lab9  - find playerby tag - Mazzzap        -  Laurie Nash         
+2016-03-17 11:01:58,954 INFO  a00904362.Lab9  - find playerby tag - Crayonbreath   -  Conrad Washington   
+2016-03-17 11:01:58,973 INFO  a00904362.Lab9  - find playerby tag - Quinesia       -  Jeanette Price      
+2016-03-17 11:01:58,991 INFO  a00904362.Lab9  - find playerby tag - CastleRock     -  Mark Chan           
+2016-03-17 11:01:59,031 INFO  a00904362.utils.PlayersIO  - Starting PlayersIO.displayPlayers
+2016-03-17 11:01:59,036 INFO  a00904362.Lab9  - End PlayersIO.displayPlayers
+2016-03-17 11:01:59,037 INFO  a00904362.Lab9  - GUI started
+2016-03-17 11:01:59,139 INFO  a00904362.Lab9  - 2016-03-17T18:01:59.139Z
+2016-03-17 11:01:59,140 INFO  a00904362.Lab9  - 2001 ms
+2016-03-17 11:01:59,141 INFO  a00904362.Lab9  - a00904362.data.db.Database@59e5ddf stopped
+2016-03-17 11:01:59,142 INFO  a00904362.Lab9  - End Lab7. exit_code 0
