@@ -1,0 +1,6 @@
+2015-10-16 10:44:03,764 INFO  examples.logging.log4j.LoggingWithProperties  - Starting LoggingWithProperties.
+2015-10-16 10:44:03,765 DEBUG examples.logging.log4j.LoggingWithProperties  - LoggingWithProperties constructor.
+2015-10-16 10:44:03,765 DEBUG examples.logging.log4j.LoggingWithProperties  - foo() called.
+2015-10-16 10:44:03,768 ERROR examples.logging.log4j.LoggingWithProperties  - Ouch!
+2015-10-16 10:44:03,768 INFO  examples.logging.log4j.AnotherClass  - Entered bar.
+2015-10-16 10:44:03,768 INFO  examples.logging.log4j.LoggingWithProperties  - Exiting LoggingWithProperties.
